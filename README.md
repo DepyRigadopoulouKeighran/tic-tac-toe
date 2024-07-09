@@ -32,5 +32,6 @@ The game can be reset to play again without refreshing the page.
 
 🛠️ Dependencies
 None. The game uses pure HTML, CSS, and JavaScript.
+
 👨‍💻 Credits
-Developed by [Your Name].
+Developed by Depy Rigadopoulou-Keighran.
