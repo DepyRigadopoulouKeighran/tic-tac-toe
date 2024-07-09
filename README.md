@@ -28,7 +28,7 @@ If a player wins, a strike-through effect highlights the winning combination.
 The game can be reset to play again without refreshing the page.
 
 📸 Screenshot
-(images/tic-tac-toe.png)
+![Image of the Tic-Tac-Toe game](/images/tic-tac-toe.png)
 
 🛠️ Dependencies
 None. The game uses pure HTML, CSS, and JavaScript.
